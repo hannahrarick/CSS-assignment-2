@@ -10,7 +10,7 @@ body {
 }
 img {
     max-width: 100%; /* DO NOT delete or change this line */
-    margin-top: 1.5rem;
+    margin-top: 2.4rem;
 }
 
 /* ----- SUGGESTED COLORS -----
@@ -58,8 +58,7 @@ nav ul li a {
 
 article {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  justify-content: center;
 }
 
 
@@ -85,16 +84,13 @@ section {
 }
 
 .text {
-  background: #fff;
-  padding: 2em 4em 2em 4em;
+  padding: 1rem;
   font-size: 16px;
   line-height: 1.5rem;
   margin-bottom: 1.5rem;
+  margin-left: 3.5rem;
 }
 
-h2 {
-  text-align: center;
-}
 /* --- link pseudo classes --- */
 /* --- you may ADD other link pseudo classes for
         specific articles or sections to improve CONTRAST --- */
